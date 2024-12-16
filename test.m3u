@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://yt3.ggpht.com/FnhviaI0biyBNmuDksSUD6-bc1YT36CmQ6hM49QY0wxmHt-1dwTcJggMe_o5VzmbQEUt4Ra8" tvg-id=", GMA  Network
+https://xigncode.enics.cloud/hls/kinaenkotamodkokasikinuhakoitokayxigncode/index.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/NBA_Logo.svg" tvg-id=", NBA
+http://45.89.149.42:8080/memfs/a9e86c3e-d7e7-486a-bda8-13f73441f038.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_%28Philippines%29_logo.svg" tvg-id=", TV5 HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_16.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg", One Sports Plus HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_6.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg", GTV
+https://xigncode.enics.cloud/hls/kuhangkuhasamayariampotasixigncodemayarinito/index.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/ANClogo2014.svg", ANC HD
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Cinema_One_2013_logo.svg", CINEMA ONE
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg", CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/MYX_new_logo.svg", MYX
+https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg", CARTOONITO
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=4.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Moonbug_Kids.svg", MOONBUG (KIDS)
+https://moonbug-rokuus.amagi.tv/playlist404-p.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png", ZOOMOO (KIDS)
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", ANIMAL PLANET
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/KBS_World.svg", KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Arirang.svg", ARIRANG
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://i.ibb.co/VHMCPjp/star-television-broadcasting-station-new-logo-orig-removebg-preview-5.png", star television broadcasting station
+http://45.89.149.42:8080/memfs/2ee4f342-e8a0-477d-bef1-1172628ffde6.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://i.ibb.co/tbVJdMb/oie-k2t-Nnf-X6p0-Kv.jpg", stbs global
+http://45.89.149.42:8080/memfs/24edb246-ff61-4692-9235-01bbea3dd419.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://i.ibb.co/7jPG9d8/421974055-7425184840922119-2393535146278253515-n.jpg", dreamstar tv
+http://45.89.149.42:8080/memfs/d46f93d7-f955-4122-8a31-ebe2a00fe31f.m3u8
+
+#EXTINF:-1 group-title="Tagalog" tvg-logo="https://i.ibb.co/5Rnx2F4/267151123-400123965132043-7385225466236355661-n.png", dream tv philippines
+http://45.89.149.42:8080/memfs/db8656dd-f3de-4b1b-96a2-328fa0fba58b.m3u8
